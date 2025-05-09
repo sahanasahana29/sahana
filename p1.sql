@@ -1,5 +1,5 @@
 create database learning_db;
-show databases;
+
 use learning_db;
 create table details(name varchar(10),location varchar(20),phone_number int);
 desc details;
